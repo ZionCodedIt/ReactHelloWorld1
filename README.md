@@ -7,7 +7,6 @@ A simple React app that displays a styled "Hello, World!" message. This project 
 ## 📦 Dependencies
 
 - [Node.js](https://nodejs.org/) (v18+ recommended)
-- [npm](https://nodejs.org/en/download)
 - [Docker](https://www.docker.com/) (optional, for containerized deployment)
 
 ---
@@ -61,8 +60,7 @@ This creates a production-ready build in the build/ directory.
 	docker run -p 3000:3000 react-hello-world
 	```
 
-Visit http://localhost:3000.
-
+    
 ---
 
 ## ✍🏽 Author
