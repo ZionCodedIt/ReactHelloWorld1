@@ -7,7 +7,7 @@ A simple React app that displays a styled "Hello, World!" message. This project 
 ## 📦 Dependencies
 
 - [Node.js](https://nodejs.org/) (v18+ recommended)
-- [npm](https://www.npmjs.com/)
+- [npm](https://nodejs.org/en/download)
 - [Docker](https://www.docker.com/) (optional, for containerized deployment)
 
 ---
